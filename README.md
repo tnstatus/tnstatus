@@ -19,17 +19,18 @@ Este repositorio contiene información para difundir información para que profe
 
   El proceso es simple y se compone de 3 pasos:
 
-  1. PERM <-- Este paso no demuestra 'dual intent'
-  2. I-140 <-- Este paso rarament demuestra 'dual intent'
-  3. I-485 <-- Demuestra 'dual intent' despues al aplicar por una I-485 pierdes la oportunidad de volver a pedir una TN
+    1. PERM <-- Este paso no demuestra 'dual intent'
+    2. I-140 <-- Este paso rarament demuestra 'dual intent'
+    3. I-485 <-- Demuestra 'dual intent' despues al aplicar por una I-485 
+    pierdes la oportunidad de volver a pedir una TN
 
   Este proceso para mexicanos toma entre 12 y 24 meses, para Mexicanos no hay 'priority date' por lo que es mucho más rápido que personas de India o Filipinas.
 
 ####El paso de la muerte ( TN > Green Card)
 Existe el riesgo de que si se retrasa o rechaza la respuesta de la petición de una I-485 se encuentre uno en una situación en la que ya no se puede renovar la TN y se tiene que salir del país, para reducir esto se aconseja:
 
-  1. Renovar la TN unos días antes de enviar la I-485
-  2. Modificar la carta de la TN para que indique una estadía de 3 años, y así la I-94 sea otorgada por ese tiempo lo que le daría al aplicaten más tiempo para apelar o buscar una H1B o L1 en caso de ser negada la I-485
+    1. Renovar la TN unos días antes de enviar la I-485
+    2. Modificar la carta de la TN para que indique una estadía de 3 años, y así la I-94 sea otorgada por ese tiempo lo que le daría al aplicaten más tiempo para apelar o buscar una H1B o L1 en caso de ser negada la I-485
 
 ###¿Cómo vender la opción de una TN a un empleador?
 
@@ -50,6 +51,6 @@ No, contar con alguien que sepa el proceso siempre ayuda y es aconsejable, pero 
 ###Consejos generales
 
 ###Links y recursos
-- Abogados para preguntas generales, normalmente enfocados en H1B pero pueden ayudar con TN [immigration.com](immigration.com)
+- [Abogados para preguntas generales, normalmente enfocados en H1B pero pueden ayudar con TN](immigration.com)
 - [Discusión sobre la validez de un año y como extenderla estadía a 3 años] (http://www.tnvisabulletin.com/nafta-tn-blog/2012/5/3/dos-discusses-tn-visa-stamp-1-year-validity-rule.html)
 - [El mejor post sobre la TN>GC del universo](http://forums.immigration.com/showthread.php?152852-I-am-no-longer-Curious!!!-I-am-APPPPPRRRROOOOOVEEEDD!!!!!!!&p=984692#post984692)
