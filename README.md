@@ -40,7 +40,7 @@ Pregunta:
 >**Do you require sponsorship to work in the United States?**
 
 Respuesta:
->Yes, but as a Mexican citizen I am eligible for the TN status which is a much simpler, cheaper way to get a work permit in the US, all I need is an offer letter for you and I will take care of the rest. I can also send you some information over email regarding the TN status, it is very helpful to have it handy.
+>Yes, but as a Mexican citizen I am eligible for the TN status which is a much simpler, cheaper way to get a work permit in the US, all I need is an offer letter from you and I will take care of the rest. I can also send you some information over email regarding the TN status, it is very helpful to have it handy.
 
 ###Preguntas frecuentes
 
