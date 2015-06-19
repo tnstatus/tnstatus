@@ -13,9 +13,9 @@ Este repositorio contiene información para difundir información para que profe
 
   El status TN se otorga bajo la premisa de que el beneficiario no persigue una intención de emmigrar permanentemente y convertirse en residente, esto se conoce como 'dual intent' sin embargo es posible perseguir la residencia estadounidense bajo las siguientes condiciones:
 
-  1. La empresa que patrocina la visa 'el empleador' está dispuesto a pagar los gastos marcados por la ley (PERM y I-140).
-  2. Se cuenta con una I-94 con un minimo de 9 meses antes de iniciar el proceso.
-  3. En caso de querer salir de USA tambien es necesario
+    1. La empresa que patrocina la visa 'el empleador' está dispuesto a pagar los gastos marcados por la ley (PERM y I-140).
+    2. Se cuenta con una I-94 con un minimo de 9 meses antes de iniciar el proceso.
+    3. En caso de querer salir de USA tambien es necesario
 
   El proceso es simple y se compone de 3 pasos:
 
