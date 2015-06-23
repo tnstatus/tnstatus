@@ -9,6 +9,32 @@ Este repositorio contiene información para difundir información para que profe
   * Requisitos
   * Condiciones
 
+###Visa el mismo día (Citas de emergencia)
+
+  En ocasiones ciertas empresas necesitan que te presentes a trabajar lo mas pronto posible, para esto, puedes aprovechar la opción de **Citas de Emergencia**. 
+
+  Solo ciertas situaciones son aceptadas para aplicar para una Cita de emergencia:
+
+    - Una emergencia médica,
+    - Muerte de un familiar inmediato,
+    - *Una emergencia de negocios,*
+    - Visas de no inmigrante tipo-U.
+
+  En el caso de la TN, la situación que se debe de usar es *"Una emergencia de negocios"*.
+
+  Para poder solicitar una Cita de Emergencia, debes de iniciar el proceso de solicitud de VISA TN como cualquier otra:
+
+    Paso 1. Completar la aplicación en línea DS-160
+    Paso 2. Pagar el monto de la aplicación y programar tu cita en el Centro de Atención a solicitantes(CAS) y Consulado.
+  
+  El paso 3 es el importante para las Citas de Emergencia:
+
+    Paso 3: Ingresar a [El Servicio Oficial del Sistema de Información y Citas de Visas para la Embajada de los Estados Unidos en Mexico](https://ais.usvisa-info.com/es-mx/niv) e ir a la opción “Citas de Emergencia”, en donde tendras que llenar un formulario explicando el motivo por el cual estas aplicando a este tipo de cita.
+
+  Una vez realizado el paso 3, normalmente recibes un correo el mismo día con una nueva fecha para tu citas en el CAS y Consulado.
+
+    Paso 4: Acudir a tu citas en la nueva fecha programada, en la mayoria de las ocasiones te programan tus citas para un día despúes de la fecha en la realizaste la aplicación.  En tu cita en el consulado, te dirán cuando estará lista tu Visa. Por haber aplicado para una "Cita de Emergencia", tu Visa será estampada en tu pasaporte y te la pueden entregar unas horas despúes o al día siguiente dependiendo de cada consulado.
+
 ###Green Card
 
   El status TN se otorga bajo la premisa de que el beneficiario no persigue una intención de emmigrar permanentemente y convertirse en residente, esto se conoce como 'dual intent' sin embargo es posible perseguir la residencia estadounidense bajo las siguientes condiciones:
