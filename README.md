@@ -11,7 +11,7 @@ Este repositorio contiene información para difundir información para que profe
 
 ###Visa el mismo día (Citas de emergencia)
 
-  En ocasiones ciertas empresas necesitan que te presentes a trabajar lo mas pronto posible, para esto, puedes aprovechar la opción de **Citas de Emergencia**. 
+  En ocasiones ciertas empresas necesitan que te presentes a trabajar lo mas pronto posible, para esto, puedes aprovechar la opción de **Citas de Emergencia**.
 
   Solo ciertas situaciones son aceptadas para aplicar para una Cita de emergencia:
 
@@ -26,7 +26,7 @@ Este repositorio contiene información para difundir información para que profe
 
     Paso 1. Completar la aplicación en línea DS-160
     Paso 2. Pagar el monto de la aplicación y programar tu cita en el Centro de Atención a solicitantes(CAS) y Consulado.
-  
+
   El paso 3 es el importante para las Citas de Emergencia:
 
     Paso 3: Ingresar a [El Servicio Oficial del Sistema de Información y Citas de Visas para la Embajada de los Estados Unidos en Mexico](https://ais.usvisa-info.com/es-mx/niv) e ir a la opción “Citas de Emergencia”, en donde tendras que llenar un formulario explicando el motivo por el cual estas aplicando a este tipo de cita.
@@ -47,7 +47,7 @@ Este repositorio contiene información para difundir información para que profe
 
     1. PERM <-- Este paso no demuestra 'dual intent'
     2. I-140 <-- Este paso rarament demuestra 'dual intent'
-    3. I-485 <-- Demuestra 'dual intent' despues al aplicar por una I-485 
+    3. I-485 <-- Demuestra 'dual intent' despues al aplicar por una I-485
     pierdes la oportunidad de volver a pedir una TN
 
   Este proceso para mexicanos toma entre 12 y 24 meses, para Mexicanos no hay 'priority date' por lo que es mucho más rápido que personas de India o Filipinas.
@@ -57,6 +57,23 @@ Existe el riesgo de que si se retrasa o rechaza la respuesta de la petición de 
 
     1. Renovar la TN unos días antes de enviar la I-485
     2. Modificar la carta de la TN para que indique una estadía de 3 años, y así la I-94 sea otorgada por ese tiempo lo que le daría al aplicaten más tiempo para apelar o buscar una H1B o L1 en caso de ser negada la I-485
+
+#### Si no tengo título, ¿puedo aplicar para una visa TN ?
+
+En la [descripción de la visa TN](http://mexico.usembassy.gov/visas/non-immigrant-visas/visa-categories/nafta-visas-tn.html) de la embajada se menciona lo siguiente en los requisitos para una visa TN:
+
+> NOTE:  A "carta de pasante" is not a degree for NAFTA purposes.  Neither is a Mexican “diploma” considered to be a degree.  Rather, only a > Mexican “titulo” is considered a degree for NAFTA purposes.
+
+Al leer esto uno pudiera concluir que el título *si* es un requisito para la visa TN, pero no es así.
+
+La embajada de los Estados Unidos tiene diferentes requisitos educativos para obtener una visa TN de acuerdo a cada profesión. Algunas profesiones como la de  *Engineer* o *Mathematician* requieren licenciatura con título; sin embargo, hay otras profesiones que ofrecen alternativas a la licenciatura, como 3 años de experiencia laboral. Algunos ejemplos de estas profesiones y sus requisitos se describen a continuación:  
+
+* Computer Systems Analyst
+    * Bachillerato o licenciatura con título; o diploma post-secundario o certificación, y tres años de experiencia.  
+* Scientific Technician/Technologist
+    * (a) Conocimientos teóricos acerca de alguna de las siguientes disciplinas: ciencias agrícolas, astronomía, biología, química, ingeniería, etc. y (b) Habilidad de resolver problemas prácticos en cualquiera de las disciplinas mencionadas, o la habilidad de aplicar los principios de las disciplinas mencionadas en investigación básica o aplicada.
+
+Para información detallada acerca de las profesiones y sus requisitos abre [esta página](http://www.sice.oas.org/trade/nafta/chap-162.asp).
 
 ###¿Cómo vender la opción de una TN a un empleador?
 
