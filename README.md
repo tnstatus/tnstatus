@@ -15,6 +15,19 @@ La visa TN es la herramienta más fácil para un ciudadano mexicano para trabaja
 
 Las desventajas de esta visa es que para México tiene que ser renovada de forma anual y que presume que el solicitante no busca estadía permanente en el país, por lo que el tiempo que se reside en el país bajo este status no es tomado en cuenta en caso de que se decida buscar la ciudadanía o residencia permanente (Green Card).
 
+### Importante 
+#### Posible Interrupción del Servicio de Visa
+
+*24 junio, 2015*
+
+El Buró de Asuntos Consulares del Departamento de Estado está actualmente experimentando problemas técnicos con su sistema de visas los cuales no son específicos a ningún país en particular, documento de ciudadanía o categoría de visa. Nos disculpamos por los inconvenientes que esto le ocasionan.
+
+Los problemas en los sistemas del Departamento de Estado que no permitían la expedición de visas, se están corrigiendo de manera gradual. Los solicitantes de visa pueden encontrar citas disponibles para todos los consulados Americanos en México visitando el siguiente enlace: https://ais.usvisa-info.com/es-mx/niv. Aquellos solicitantes quiénes ya asistieron a sus citas, pueden experimentar algún retraso en recibir su visa.
+
+Si necesita cambiar su cita, puede seguir las instrucciones localizadas en el siguiente enlace: https://ais.usvisa-info.com/es-mx/niv.  Todos los solicitantes de visa deben presentarse a sus citas ya programadas, a menos que haya recibido instrucciones específicas de no hacerlo. Aquellos solicitantes quienes tengan una emergencia de viaje deberán seguir las instrucciones para solicitar citas de emergencia localizadas en el siguiente enlace: http://spanish.mexico.usembassy.gov/es/visas/visas-de-no-inmigrante/citas-de-emergencia.html.
+
+
+
 #### Requisitos
 
 Para solicitar esta visa los requisitos estipulados son:
