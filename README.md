@@ -1,9 +1,9 @@
 # pollero
-Información de Visas de trabajo para profesionales de tecnología
+Información de Visas de trabajo para profesionales.
 
 ## Objetivo de este repositorio
 
-Este repositorio contiene información para difundir información para que profesionales mexicanos del desarrollo de software emigren a Estados Unidos
+Este repositorio contiene información para difundir información para que profesionales mexicanos emigren a Estados Unidos.
 
 ### TN Status
 
@@ -14,6 +14,8 @@ El estado TN sólo está disponible para una [lista de profesiones](http://www.n
 La visa TN es la herramienta más fácil para un ciudadano mexicano para trabajar en Estados Unidos de forma legal y entre sus ventajas incluye el bajo costo (US $160), facilidad de trámite (que no requiere un costoso abogado de migración en la mayoría de los casos) y rapidez (el trámite toma entre 2 días y 2 semanas de principio a fin).
 
 Las desventajas de esta visa es que para México tiene que ser renovada de forma anual y que presume que el solicitante no busca estadía permanente en el país, por lo que el tiempo que se reside en el país bajo este status no es tomado en cuenta en caso de que se decida buscar la ciudadanía o residencia permanente (Green Card).
+
+(Lista de profesiones NAFTA)[profesionesNafta.md]
 
 #### Requisitos
 
@@ -125,3 +127,4 @@ No, contar con alguien que sepa el proceso siempre ayuda y es aconsejable, pero 
 - [Abogados para preguntas generales, normalmente enfocados en H1B pero pueden ayudar con TN](immigration.com)
 - [Discusión sobre la validez de un año y como extenderla estadía a 3 años] (http://www.tnvisabulletin.com/nafta-tn-blog/2012/5/3/dos-discusses-tn-visa-stamp-1-year-validity-rule.html)
 - [El mejor post sobre la TN>GC del universo](http://forums.immigration.com/showthread.php?152852-I-am-no-longer-Curious!!!-I-am-APPPPPRRRROOOOOVEEEDD!!!!!!!&p=984692#post984692)
+- [Lista de profesiones que pueden aplicar para una visa TN](http://canada.usembassy.gov/visas/doing-business-in-america/professions-covered-by-nafta.html)
