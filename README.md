@@ -15,7 +15,7 @@ La visa TN es la herramienta más fácil para un ciudadano mexicano para trabaja
 
 Las desventajas de esta visa es que para México tiene que ser renovada de forma anual y que presume que el solicitante no busca estadía permanente en el país, por lo que el tiempo que se reside en el país bajo este status no es tomado en cuenta en caso de que se decida buscar la ciudadanía o residencia permanente (Green Card).
 
-(Lista de profesiones NAFTA)[profesionesNafta.md]
+[Lista de profesiones NAFTA](profesionesNafta.md)
 
 #### Requisitos
 
