@@ -1,4 +1,4 @@
-* [Indice](README.md.md)
+* [Indice](README.md)
 
 ### Green Card
 

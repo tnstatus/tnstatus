@@ -1,3 +1,3 @@
-* [Indice](README.md.md)
+* [Indice](README.md)
 
 ## Tu participación es necesaria aquí  
