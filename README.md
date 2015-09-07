@@ -10,13 +10,13 @@ Este repositorio contiene información para difundir información para que profe
 * [Trabajo desde México](trabajo_desde_mexico.md)
 * [Buenas y malas empresas](buenas_y_malas_empresas.md)
 
-###Preguntas frecuentes
+##Preguntas frecuentes
 
 **¿Es completamente necesario un abogado?**
 No, contar con alguien que sepa el proceso siempre ayuda y es aconsejable, pero una TN puede ser tramitada facilmente sin ayuda de un abogado.
 
 
-###Consejos generales
+##Consejos generales
 
 ###¿Cómo vender la opción de una TN a un empleador?
 
