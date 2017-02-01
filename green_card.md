@@ -23,3 +23,7 @@ Existe el riesgo de que si se retrasa o rechaza la respuesta de la petición de 
 
     1. Renovar la TN unos días antes de enviar la I-485
     2. Modificar la carta de la TN para que indique una estadía de 3 años, y así la I-94 sea otorgada por ese tiempo lo que le daría al aplicaten más tiempo para apelar o buscar una H1B o L1 en caso de ser negada la I-485
+
+### Links
+
+- [El mejor post sobre la TN>GC del universo](http://forums.immigration.com/showthread.php?152852-I-am-no-longer-Curious!!!-I-am-APPPPPRRRROOOOOVEEEDD!!!!!!!&p=984692#post984692)
