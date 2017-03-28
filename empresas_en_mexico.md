@@ -72,7 +72,7 @@ Puedes encontrar empresas con opción de trabajo remoto en [whoishiring.io](http
 
 [**Reseñas en Glassdoor**]( https://www.glassdoor.com/Reviews/Crossover-for-Work-Reviews-E1041838.htm)
 
-**Advertencia:** Esta empresa ocupa una herramienta, worksmart, para hacer un seguimiento de **todas** tus actividades frente a la computadora.
+**Advertencia:** Esta empresa ocupa una herramienta para hacer un seguimiento de **todas** tus actividades frente a la computadora.
 
 ## Gitlab
 [**Vacantes**](https://about.gitlab.com/jobs/)
