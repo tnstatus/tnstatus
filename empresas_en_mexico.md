@@ -51,6 +51,11 @@ El siguiente listado es en orden alfabético:
 ## Sawyer Effect
 [**Vacantes**]( http://www.sawyereffect.com/careers.html)
 
+## Tacit Knowledge
+[**Vacantes**](http://www.tacitknowledge.com/careers/)
+
+[**Reseñas en Glassdoor**](https://www.glassdoor.com/Overview/Working-at-Tacit-Knowledge-EI_IE322204.11,26.htm)
+
 ## Tiempo Development
 [**Vacantes**]( http://www.tiempodev.com/careers)
 
