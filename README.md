@@ -6,6 +6,7 @@ Difundir información para que profesionales mexicanos emigren a Estados Unidos 
 * [Obtener una Green Card](green_card.md)
 * [Trabajo desde México](trabajo_desde_mexico.md)
 * [Buenas y malas empresas](buenas_y_malas_empresas.md)
+* [Empresas con buenas prestaciones *en* México](empresas_en_mexico.md)
 * [Profesiones NAFTA](profesiones_nafta.md)
 
 ## Preguntas frecuentes
