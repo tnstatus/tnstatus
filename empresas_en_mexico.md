@@ -15,6 +15,7 @@ Aquí puedes encontrar una [comparativa de costo de vida entre San Francisco y C
 Algunas de las empresas listadas más abajo figuran en las listas: 
 *  [SG Mejores Empresas para Trabajar 2016](https://sg.com.mx/revista/53/mejores-empresas-para-trabajar-2016)
 *  [GPTW Las Mejores Empresas para Trabajar en México: Sector TI y Telecom (menos de 500 colaboradores) 2016](http://www.greatplacetowork.com.mx/bestworkplaces/a2480000007VLHK)
+*  [Compañias con buenos procesos de reclutamiento](https://github.com/poteto/hiring-without-whiteboards/)
 
 El siguiente listado es en orden alfabético:
 
@@ -74,13 +75,6 @@ El siguiente listado es en orden alfabético:
 # Empresas con opción de trabajo remoto
 
 Puedes encontrar empresas con opción de trabajo remoto en [whoishiring.io](http://whoishiring.io) habilitando la opción _remote_.
-
-## Crossover
-[**Vacantes**]( https://app.crossover.com/x/marketplace/available-jobs)
-
-[**Reseñas en Glassdoor**]( https://www.glassdoor.com/Reviews/Crossover-for-Work-Reviews-E1041838.htm)
-
-**Advertencia:** Esta empresa ocupa una herramienta para hacer un seguimiento de **todas** tus actividades frente a la computadora.
 
 ## Gitlab
 [**Vacantes**](https://about.gitlab.com/jobs/)
