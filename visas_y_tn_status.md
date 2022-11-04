@@ -52,13 +52,13 @@ En la [descripción de la visa TN](http://mexico.usembassy.gov/visas/non-immigra
 
 #### Visa el mismo día (Citas de emergencia)
 
-  En ocasiones ciertas empresas necesitan que te presentes a trabajar lo mas pronto posible, para esto, puedes aprovechar la opción de **Citas de Emergencia**.
+  En ocasiones ciertas empresas necesitan que te presentes a trabajar lo más pronto posible, para esto, puedes aprovechar la opción de **Citas de Emergencia**.
 
   Solo ciertas situaciones son aceptadas para aplicar para una Cita de emergencia:
 
-    - Una emergencia médica,
-    - Muerte de un familiar inmediato,
-    - *Una emergencia de negocios,*
+    - Una emergencia médica.
+    - Muerte de un familiar inmediato.
+    - Una emergencia de negocios.
     - Visas de no inmigrante tipo-U.
 
   En el caso de la TN, la situación que se debe de usar es *"Una emergencia de negocios"*.
